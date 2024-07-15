@@ -1,0 +1,11 @@
+Threads: 1 
+[1;35m
+ Time for Reading: 0.000930 
+[0m21  11 52[1;35m
+ Time for Processing Inserts: 0.000057 
+[0m[1;35m
+ Time for Creating graph: 0.000005 
+[0mHUBs 12[1;35m
+ Time for Finding Hubs: 0.000017 
+[0m
+ N: 19 Hubs: 12 
